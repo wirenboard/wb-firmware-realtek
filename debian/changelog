@@ -1,3 +1,9 @@
+wb-firmware-realtek (1.0.2) stable; urgency=medium
+
+  * Fix debian package architecture
+
+ -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Thu, 12 Oct 2023 12:46:49 +0500
+
 wb-firmware-realtek (1.0.1) stable; urgency=medium
 
   * Fix firmware names
