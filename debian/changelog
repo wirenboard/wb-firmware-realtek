@@ -1,3 +1,9 @@
+wb-firmware-realtek (1.0.3) stable; urgency=medium
+
+  * add Homepage to debian/control (no functional changes)
+
+ -- Nikolay Korotkiy <nikolay.korotkiy@wirenboard.com>  Thu, 11 Jan 2024 11:30:00 +0400
+
 wb-firmware-realtek (1.0.2) stable; urgency=medium
 
   * Fix debian package architecture
