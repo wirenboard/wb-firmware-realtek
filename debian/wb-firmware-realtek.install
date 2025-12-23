@@ -1,4 +1,4 @@
 rtl8723fu_fw.bin lib/firmware/rtl_bt
 rtl8723fu_config.bin lib/firmware/rtl_bt
-rtl8733fu_fw.bin lib/firmware/rtl_bt
-rtl8733fu_config.bin lib/firmware/rtl_bt
+rtl8733bu_fw.bin lib/firmware/rtl_bt
+rtl8733bu_config.bin lib/firmware/rtl_bt
