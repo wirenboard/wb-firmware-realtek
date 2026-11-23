@@ -1,3 +1,12 @@
+wb-firmware-realtek (1.0.5) stable; urgency=medium
+
+  * Add LICENSE (MIT-WB): Wiren Board as the copyright holder, 2023 as the first
+    publication year, use restricted to Wiren Board equipment
+  * Fill debian/copyright in the DEP-5 format, the Realtek firmware files keep
+    the Realtek redistribution license
+
+ -- Ekaterina Volkova <ekaterina.volkova@wirenboard.com>  Mon, 23 Nov 2026 14:00:22 +0000
+
 wb-firmware-realtek (1.0.4) stable; urgency=medium
 
   * Add firmware for RTL8733
