@@ -1,9 +1,7 @@
 wb-firmware-realtek (1.0.5) stable; urgency=medium
 
-  * Add LICENSE (MIT): Wiren Board as the copyright holder, 2023 as the first
-    publication year
-  * Fill debian/copyright in the DEP-5 format, the Realtek firmware files keep
-    the Realtek redistribution license
+  * Add the Realtek firmware license text
+  * Fill debian/copyright in the DEP-5 format with the Realtek firmware license
 
  -- Ekaterina Volkova <ekaterina.volkova@wirenboard.com>  Mon, 23 Nov 2026 14:00:22 +0000
 
